@@ -3,8 +3,11 @@ print("VS GIT ext. Test")
 w1 = false
 
 while == false do
-    --err 
+    --err handling loop
+    print()
     i1 = io.read()
+    n1 = tonumber(i1)
 
-    if 
-    
+    if n1 == 
+
+end

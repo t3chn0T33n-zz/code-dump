@@ -1,3 +1,3 @@
-# lua-dump
+# code-dump
 
 Scram! Get out!
